@@ -1,0 +1,1 @@
+National Weather Serviceのアクティブな気象警報を取得するPython MCPサーバー。提供ツールは get_weather。

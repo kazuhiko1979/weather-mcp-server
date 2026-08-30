@@ -1,0 +1,1 @@
+Python 3.12以上、httpx、MCP Python SDK、uv。Serenaはpython/json/yamlを索引化する。

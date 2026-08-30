@@ -1,0 +1,1 @@
+依存同期: uv sync。MCPサーバー起動: uv run weather.py。Codex登録例はREADMEを参照する。
